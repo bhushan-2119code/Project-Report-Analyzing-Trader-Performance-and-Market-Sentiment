@@ -39,7 +39,7 @@ Through this project, the raw trading and sentiment data was transformed into a 
 
 - Propose Trading Strategies: Based on your insights, propose actionable trading strategies. A strategy might be: "When the market sentiment is 'Fear', high-leverage short positions on BTC have a higher probability of being profitable for experienced traders."
 
-
+https://colab.research.google.com/drive/1EPEtbdCz58QeGcqyIpcDC6tMGzGtdIyf?usp=sharing
 
 
 
