@@ -1,6 +1,7 @@
 # $\color{purple}{\text{Project-Report-Analyzing-Trader-Performance-and-Market-Sentiment}}$
 - This report outlines the complete workflow of a data science project aimed at exploring the relationship between trader behavior and market sentiment. It details each step, from data preparation to the final delivery of key insights and visualizations.
 - $\\color{green}{\\text{We found that while most traders are more profitable}}$
+-  google colab [link](https://colab.research.google.com/drive/1EPEtbdCz58QeGcqyIpcDC6tMGzGtdIyf?usp=sharing)
 ## $\color{pink}{\text{1. Project Objective}}$
 The primary goal of this analysis is to explore how market sentiment, as represented by a Fear and Greed Index, influences trader performance. By merging historical trading data with market sentiment data, we aim to uncover hidden patterns and deliver actionable insights for building smarter trading strategies.
 
